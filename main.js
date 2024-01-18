@@ -3908,7 +3908,7 @@ var sketchProc = function(processingInstance) {
              y: 0
          };
          this.timer = 0;
-         this.TOTAL_TIME = 125;// 125; //125 seconds (5 seconds for delay)
+         this.TOTAL_TIME = 60;// 125; //125 seconds (5 seconds for delay)
          this.timerStart = 0;
          this.timerDelay = 5; //5 seconds
          this.counter = 0;
